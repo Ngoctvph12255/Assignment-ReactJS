@@ -1,0 +1,8 @@
+.animals{
+    width: 500px;
+    margin: 40px auto;
+    border: 5px solid rgba(191, 197, 197, 0.933);
+    padding: 16px;
+    text-align: center;
+    box-shadow: 0 2px 3px #cccc;
+}
